@@ -24,7 +24,9 @@ B.S., Ynatai University, China, Aug 2008 – Jul 2012.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Computer and Control Engineering  
 
 **Works**    
-▪ Associate Professor, Qingdao University, Qindgao, China, Apr 2024 - Now.  
+▪ Associate Professor, Qingdao University, Qindgao, China, Apr 2024 - Now.
+▪ Postdoctoral Researcher, Qingdao University, Jul 2022 - Now.  
+&nbsp;&nbsp;&nbsp;Advisor: Prof. Jinpeng Yu 
 ▪ Lecture, Qingdao University, Qingdao, China, Oct 2019 - Apr 2024.  
 ▪ Visiting Scholar, National University of Singapore, Oct 2024 - Feb 2025.  
 &nbsp;&nbsp;&nbsp;Advisor: Prof. Shuzhi Sam Ge  
