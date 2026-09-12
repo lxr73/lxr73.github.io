@@ -12,15 +12,15 @@ I am an associate professor at school of automation, Qingdao Univeristy, China. 
 Since September 2026, I have served in IEEE RAS Technical Community. At the same time, I contribute to the community as the reviewer of several IEEE Transactions jounrals and leading robotics conferences.
 
 **Education**  
-Ph.D., Ocean University of China, Qingdao, China, Aug 2014 - Jun 2019  
-    School of Information Science and Engineering  
+Ph.D., Ocean University of China, Qingdao, China, Aug 2014 - Jun 2019.  
+    School of Information Science and Engineering.  
     Advisor: Prof. Ronger Zheng  
 
-M.Sc., Ocean University of China, Qingdao, China, Aug 2012 - Jun 2014  
-    School of Information Science and Engineering  
+M.Sc., Ocean University of China, Qingdao, China, Aug 2012 - Jun 2014.  
+    School of Information Science and Engineering.  
     Advisor: Prof. Ronger Zheng  
 
-B.S., Ynatai University, China, Aug 2008 – Jul 2012  
+B.S., Ynatai University, China, Aug 2008 – Jul 2012.   
     School of Computer and Control Engineering  
 
 **Works**    
