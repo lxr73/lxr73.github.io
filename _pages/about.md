@@ -24,8 +24,10 @@ B.S., Ynatai University, China, Aug 2008 – Jul 2012.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Computer and Control Engineering  
 
 **Works**    
-Associate Professor, Qingdao University, Qindgao, China, Apr 2024 - Now.  
-Lecture, Qingdao University, Qingdao, China, Oct 2019 - Apr 2024.  
-Visiting Scholar, National University of Singapore, Singapore, Oct 2024 - Feb 2025. Advisor: Prof. Shuzhi Sam Ge.  
-Visiting Scholar, EMC Lab, Missouri University of Science and Technology, USA, Sep 2017 - Dec.2018. Prof. Advisor: David J. Pommerenke.  
+▪ Associate Professor, Qingdao University, Qindgao, China, Apr 2024 - Now.  
+▪ Lecture, Qingdao University, Qingdao, China, Oct 2019 - Apr 2024.  
+▪ Visiting Scholar, National University of Singapore, Oct 2024 - Feb 2025.  
+&nbsp;&nbsp;Advisor: Prof. Shuzhi Sam Ge.  
+▪ Visiting Scholar, EMC Lab, Missouri University of Science and Technology, Sep 2017 - Dec.2018.  
+&nbsp;&nbsp;Advisor: Prof. David J. Pommerenke.  
 
