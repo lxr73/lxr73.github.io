@@ -3,11 +3,11 @@ title: "A synchronous control strategy of robot social behavior driven by scenar
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-20-paper-ISA-LRK.md
-excerpt: ''
+#excerpt: ''
 date: 2025-11-20
 venue: 'ISA Transactions'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: ''
+#slidesurl: ''
+#paperurl: ''
+#bibtexurl: ''
+#citation: ''
 ---
