@@ -27,5 +27,5 @@ B.S., Ynatai University, China, Aug 2008 – Jul 2012
 Associate Professor, Qingdao University, Qindgao, China, Apr 2024 - Now.
 Lecture, Qingdao University, Qingdao, China, Oct 2019 - Apr 2024.
 Visiting Scholar, National University of Singapore, Singapore, Oct 2024 - Feb 2025. Advisor: Prof. Shuzhi Sam Ge’s.
-Visiting Scholar, EMC Lab, Missouri University of Science and Technology, Rolla, MO, USA. Prof. Advisor: David J. Pommerenke.
+Visiting Scholar, EMC Lab, Missouri University of Science and Technology, USA, Sep 2017 - Dec.2018. Prof. Advisor: David J. Pommerenke.
 
