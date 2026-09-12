@@ -3,11 +3,11 @@ title: "A Control Strategy of Robot Eye-Head Coordinate Gaze Behavior Achieved f
 collection: publications
 category: manuscripts
 permalink: /publication/2023-4-22-paper-Tmech.md
-excerpt: ''
+#excerpt: ''
 date: 2023-04-22
 venue: 'IEEE/ASME Transactions on Mechatronics'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: ''
+#slidesurl: ''
+#paperurl: ''
+#bibtexurl: ''
+#citation: ''
 ---
