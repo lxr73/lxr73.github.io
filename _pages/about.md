@@ -33,3 +33,10 @@ B.S., Ynatai University, China, Aug 2008 – Jul 2012.
 ▪ Visiting Scholar, EMC Lab, Missouri University of Science and Technology, Sep 2017 - Dec.2018.  
 &nbsp;&nbsp;&nbsp;Advisor: Prof. David J. Pommerenke  
 
+**Projects**  
+▪ National Natural Science Foundation of China, 2025-2027 (No.62503263).  
+▪ Key R&D Program of Shandong Province, 2025-2028 (No.2025CXGC010219).
+▪ Natural Science Foundation of Shandong Province Project, 2024-2026 (No.ZR2023Q02).  
+▪ Qingdao Natural Science Foundation Project, 2023-2025 (No.23-2-126-ZYD-JH).  
+
+
