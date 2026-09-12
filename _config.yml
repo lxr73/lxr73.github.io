@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "2024.png"
-  name             : "刘晓瑞 Xiaorui Liu"
-  pronouns         : "IEEE Senior member"  
+  name             : "刘晓瑞"
+  pronouns         : "Xiaorui Liu"  
   bio              : "Dept．of Control Science and Engineering"
   employer         : "Qingdao University"
-  location         : "Qingdao，Shandong province"
+  location         : "Qingdao，China"
   uri              : # URL
   email            : "liuxiaorui@qdu.edu.cn" 
 
