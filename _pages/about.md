@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-\I am an associate professor at school of automation, Qingdao Univeristy, China. My research advances robotics and embodied intelligence, with a focus on human–robot interaction and emotional LLM that adapt to human intent and long-term social emergence. Besides, I have developed learning- and optimization-based control methods for industrial robot operating in microwave and terahertz application.
+&nbsp;&nbsp;&nbsp;&nbsp;I am an associate professor at school of automation, Qingdao Univeristy, China. My research advances robotics and embodied intelligence, with a focus on human–robot interaction and emotional LLM that adapt to human intent and long-term social emergence. Besides, I have developed learning- and optimization-based control methods for industrial robot operating in microwave and terahertz application.
 
-Since September 2026, I have served in IEEE RAS Technical Community. At the same time, I contribute to the community as the reviewer of several IEEE Transactions jounrals and leading robotics conferences.
+&nbsp;&nbsp;&nbsp;&nbsp;Since September 2026, I have served in IEEE RAS Technical Community. At the same time, I contribute to the community as the reviewer of several IEEE Transactions jounrals and leading robotics conferences.
 
 **Education**  
 Ph.D., Ocean University of China, Qingdao, China, Aug 2014 - Jun 2019.  
-\\School of Information Science and Engineering.  
-\\Advisor: Prof. Ronger Zheng  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Information Science and Engineering.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Advisor: Prof. Ronger Zheng  
 
 M.Sc., Ocean University of China, Qingdao, China, Aug 2012 - Jun 2014.  
-    School of Information Science and Engineering.  
-    Advisor: Prof. Ronger Zheng  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Information Science and Engineering.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Advisor: Prof. Ronger Zheng  
 
 B.S., Ynatai University, China, Aug 2008 – Jul 2012.   
-    School of Computer and Control Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Computer and Control Engineering  
 
 **Works**    
 Associate Professor, Qingdao University, Qindgao, China, Apr 2024 - Now.  
