@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./2024.png"
+  avatar           : "2024.png"
   name             : "Xiaorui Liu"
   pronouns         : "IEEE Senior member"  
   bio              : "Dept．of Control Science and Engineering"
