@@ -6,8 +6,8 @@ permalink: /publication/2020-8-20-paper-tdmr.md
 excerpt: ''
 date: 2020-11-20
 venue: 'IEEE Transactions on Device and Materials Reliability'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: ''
+#slidesurl: ''
+#paperurl: ''
+#bibtexurl: ''
+#citation: ''
 ---
