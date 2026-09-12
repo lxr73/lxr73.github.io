@@ -13,11 +13,11 @@ redirect_from:
 
 **Education**  
 Ph.D., Ocean University of China, Qingdao, China, Aug 2014 - Jun 2019.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Information Science and Engineering.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Information Science and Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Advisor: Prof. Ronger Zheng  
 
 M.Sc., Ocean University of China, Qingdao, China, Aug 2012 - Jun 2014.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Information Science and Engineering.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ School of Information Science and Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Advisor: Prof. Ronger Zheng  
 
 B.S., Ynatai University, China, Aug 2008 – Jul 2012.   
