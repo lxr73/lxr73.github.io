@@ -9,7 +9,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am an associate professor at school of automation, Qingdao Univeristy, China. My research advances robotics and embodied intelligence, with a focus on human–robot interaction and emotional LLM that adapt to human intent and long-term social emergence. Besides, I have developed learning- and optimization-based control methods for industrial robot operating in microwave and terahertz application.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Since September 2026, I have served in IEEE RAS Technical Community. At the same time, I contribute to the community as the reviewer of several IEEE Transactions jounrals and leading robotics conferences.
+&nbsp;&nbsp;&nbsp;Since September 2026, I have served in IEEE RAS Technical Community. At the same time, I contribute to the community as the reviewer of several IEEE Transactions jounrals and leading robotics conferences.
 
 **Education**  
 Ph.D., Ocean University of China, Qingdao, China, Aug 2014 - Jun 2019.  
