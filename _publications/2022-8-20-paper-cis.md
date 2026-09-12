@@ -3,11 +3,11 @@ title: "A novel dual-modal emotion recognition algorithm with fusing hybrid feat
 collection: publications
 category: manuscripts
 permalink: /publication/2022-8-20-paper-cis.md
-excerpt: ''
+#excerpt: ''
 date: 2022-11-20
 venue: 'Complex & Intelligent Systems'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: ''
+#slidesurl: ''
+#paperurl: ''
+#bibtexurl: ''
+#citation: ''
 ---
