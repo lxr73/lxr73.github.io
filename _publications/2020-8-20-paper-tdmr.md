@@ -3,7 +3,7 @@ title: "Detection of ESD-Induced Soft Failures by Analyzing Linux Kernel Functio
 collection: publications
 category: manuscripts
 permalink: /publication/2020-8-20-paper-tdmr.md
-excerpt: ''
+#excerpt: ''
 date: 2020-11-20
 venue: 'IEEE Transactions on Device and Materials Reliability'
 #slidesurl: ''
