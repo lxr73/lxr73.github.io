@@ -3,11 +3,11 @@ title: "Graph Representation Learning and Optimization for Spherical Emission So
 collection: publications
 category: manuscripts
 permalink: /publication/2024-8-23-paper-TASE-1.md
-excerpt: ''
+#excerpt: ''
 date: 2024-08-22
 venue: 'IEEE Transactions on Automation Science and Engineering'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: ''
+#slidesurl: ''
+#paperurl: ''
+#bibtexurl: ''
+#citation: ''
 ---
