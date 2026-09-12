@@ -3,7 +3,7 @@ title: "Deep Spatial Guidance Framework with Proxemic Interaction Field for Soci
 collection: publications
 category: manuscripts
 permalink: /publication/2026-9-10-paper-Guo-TIE.md
-excerpt: 'XXX'
+excerpt: ''
 date: 2026-09-19
 venue: 'IEEE Transactions on Industrial Electronics'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
