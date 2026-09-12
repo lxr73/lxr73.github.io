@@ -32,6 +32,7 @@ B.S., Ynatai University, China, Aug 2008 – Jul 2012.
 &nbsp;&nbsp;&nbsp;Advisor: Prof. Shuzhi Sam Ge  
 ▪ Visiting Scholar, EMC Lab, Missouri University of Science and Technology, Sep 2017 - Dec.2018.  
 &nbsp;&nbsp;&nbsp;Advisor: Prof. David J. Pommerenke  
+▪ Visiting Scholar, Georgia Institute of Technology, Nov 2025 - Mar.2026.  
 
 **Projects**  
 ▪ National Natural Science Foundation of China, 2025-2027 (No.62503263).  
