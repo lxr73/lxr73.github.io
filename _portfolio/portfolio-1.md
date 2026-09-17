@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Emission source microscopy for microwave or Terahertz bands"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/2-1.jpg'> <video src="/images/2-2.mp4" controls="controls" width="500" height="300"></video>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/2-1.jpg'>"
 collection: portfolio
 ---
 
